@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f748855-cb12-4981-bb12-f5d669029343" name="Changes" comment="Created a thread using Runnable interface">
-      <change afterPath="$PROJECT_DIR$/src/FiveThreads.java" afterDir="false" />
+    <list default="true" id="0f748855-cb12-4981-bb12-f5d669029343" name="Changes" comment="Created Five threads using Thread class">
+      <change afterPath="$PROJECT_DIR$/src/FiveThreadsUsingRunnable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RunnableThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RunnableThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +42,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FiveThreads">
-    <configuration name="FiveThreads" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FiveThreads" />
+  <component name="RunManager" selected="Application.FiveThreadsUsingRunnable">
+    <configuration name="FiveThreadsUsingRunnable" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FiveThreadsUsingRunnable" />
       <module name="Week1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,11 +59,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyThread" />
-      <item itemvalue="Application.FiveThreads" />
+      <item itemvalue="Application.FiveThreadsUsingRunnable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FiveThreads" />
+        <item itemvalue="Application.FiveThreadsUsingRunnable" />
         <item itemvalue="Application.MyThread" />
       </list>
     </recent_temporary>
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648036504663</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created Five threads using Thread class">
+      <created>1648530598218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648530598218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a thread" />
     <MESSAGE value="Created a thread using Runnable interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a thread using Runnable interface" />
+    <MESSAGE value="Created Five threads using Thread class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Five threads using Thread class" />
   </component>
 </project>
